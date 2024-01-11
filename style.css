@@ -1,0 +1,130 @@
+body{
+    border-radius: 20px;
+    background: #0C151D;
+}
+.primeraImagen{
+    display: flex;
+    width: 631px;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    margin-left: 280px;
+}
+#imagen{
+    width: 192px;
+    height: 192px;
+    flex-shrink: 0;
+    border-radius: 192px;
+}
+.letras{
+    color: #F1F2F4;
+    font-family: Poppins;
+    font-size: 46px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+#parafo{
+    color: #A3ABB2;
+    font-family: Poppins;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+#iconos{
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 26px;
+}
+.caja2{
+    display: flex;
+    width: 634px;
+    padding: 20px 2px;
+    justify-content: center;
+    align-items: center;
+    gap: 90px;
+    margin-left: 280px;
+}
+#uno{
+    display: flex;
+    width: 148px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    color: #A3ABB2;
+    font-family: Poppins;
+}
+#dos{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #A3ABB2;
+    font-family: Poppins;
+}
+#tres{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #A3ABB2;
+    font-family: Poppins;
+}
+#boton1{
+    width: 290px;
+    height: 80px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: #FFE071;
+    margin-left: 290px;
+}
+#boton2{
+    width: 290px;
+    height: 116px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    border: 0px solid #3E64AA;
+    background: #171F26;
+    margin-left:10px ;
+    margin-right: 10px;
+    margin-left: 50px;
+}
+.botondos{
+    width: 756px;
+    height: 116px;
+    flex-shrink: 0;
+    border-radius: 20px;
+    background: #171F26;
+    margin-left: 250px;
+}
+#p{
+    width: 349.595px;
+    height: 80px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    border: 0px solid #3E64AA;
+    background: #0C151D;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+#s{
+    width: 382.37px;
+    background: #171F26;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: -0.5px;
+}
+.imagenes{
+    width: 757px;
+    height: 826px;
+    flex-shrink: 0;
+    border-radius: 20px;
+    margin-left: 250px;
+}
+
